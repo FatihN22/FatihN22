@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">On the way to being a good Front-End Developer, junior is open to learning and development :)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihn22&label=Profile%20views&color=0e75b6&style=flat" alt="fatihn22" /> </p>
 
